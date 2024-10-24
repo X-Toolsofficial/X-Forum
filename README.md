@@ -2,7 +2,9 @@
 
 Welcome to the **XMOD Forum**! This project is a modern, user-friendly discussion platform designed to foster community engagement and facilitate meaningful conversations. Built with HTML, CSS, and Font Awesome icons, the XMOD Forum provides a clean and intuitive interface for users to explore discussions, share insights, and connect with others.
 
-<h1 style="color: black;">This is big black text.</h1>
+## Screenshots
+
+![Screenshot of XMOD Forum](https://i.imgur.com/UouAChJ.png)
 
 ## Features
 
