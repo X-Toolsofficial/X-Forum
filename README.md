@@ -26,7 +26,7 @@ Welcome to the **XMOD Forum**! This project is a modern, user-friendly discussio
 To get started with the XMOD Forum, simply clone the repository and open the `index.html` file in your web browser. You can customize the content and styles to fit your needs.
 
 ```bash
-git clone https://github.com/yourusername/xmod-forum.git
+git clone [https://github.com/yourusername/xmod-forum.git](https://github.com/X-Toolsofficial/X-Forum.git)
 cd xmod-forum
 open index.html
 ````
